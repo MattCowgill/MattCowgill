@@ -2,5 +2,5 @@
 
 About me: 
 
-- 💼 I’m an economist at [SEEK](https://www.seek.com.au), Australia's biggest employment marketplace
+- 💼 I’m an economist at the Australian Government's [Department of Employment and Workplace Relations](https://www.dewr.gov.au).
 - ®️ I’m an R enthusiast!
